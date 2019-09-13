@@ -6,3 +6,4 @@ Refer to this reference site
 To run the docker
 1. docker-compose build
 2. docker-compose up
+3. docker-compose stop
